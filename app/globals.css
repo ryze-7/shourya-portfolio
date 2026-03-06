@@ -145,7 +145,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-.prose {
-  --tw-prose-bold: var(--foreground);
-}
