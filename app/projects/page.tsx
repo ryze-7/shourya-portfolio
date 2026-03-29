@@ -120,7 +120,7 @@ export default function ProjectsPage() {
             I'm always interested in hearing about new projects and opportunities.
           </p>
           <a
-            href="mailto:your@email.com"
+            href="mailto:shourya.kashyap.05@gmail.com"
             className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-accent-foreground rounded-lg font-medium hover:bg-emerald-500 transition-colors"
           >
             Get In Touch
